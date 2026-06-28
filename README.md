@@ -29,13 +29,13 @@ Após uma trajetória sólida na área administrativa — onde desenvolvi fortes
 ## 📂 Projetos em Destaque
 *Aqui você pode listar os seus melhores projetos conforme for construindo durante a faculdade e estudos autônomos:*
 
-1. **[Nome do Projeto 1](https://github.com/mayarads/seu-repositorio-aqui)**
-   * *Descrição:* Uma breve frase sobre o que é o projeto e o problema que ele resolve.
-   * *Tecnologias:* HTML, CSS, JavaScript.
+1. **[NexStream](https://github.com/mayarads/nexstream.git)**
+   * *Descrição:* NexStream é uma plataforma de streaming responsiva desenvolvida para oferecer uma experiência fluida e multiplataforma, com foco em performance, acessibilidade e SEO, alcançando 100% de pontuação nas auditorias do Lighthouse.
+   * *Tecnologias:* HTML5, CSS3, JavaScript Vanilla, Git, GitHub Pages e Google Lighthouse.
 
-2. **[Nome do Projeto 2](https://github.com/mayarads/seu-repositorio-aqui)**
-   * *Descrição:* Projeto desenvolvido para praticar consumo de APIs, componentização ou um desafio de Front-end.
-   * *Tecnologias:* React, CSS Modules.
+2. **[TecBoard](https://github.com/mayarads/tecboard---curso-1.git)**
+   * *Descrição:* TecBoard é uma landing page responsiva desenvolvida para apresentar uma plataforma fictícia de monitoramento de aplicações em tempo real. O projeto foi criado com foco em uma interface moderna, experiência do usuário, responsividade e boas práticas de desenvolvimento front-end, alcançando excelentes resultados nas auditorias do Google Lighthouse.
+   * *Tecnologias:* HTML5, CSS3, Git, GitHub Pages e Google Lighthouse.
 
 ---
 
