@@ -1,13 +1,13 @@
 # Olá, eu sou a Mayara! 👋
 
 ## 🚀 Sobre Mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas** na GRAN Faculdade e estou focando meus estudos e energia para me tornar uma **Desenvolvedora Front-end**. 
+Sou estudante de Análise e Desenvolvimento de Sistemas na GRAN Faculdade e estou focando meus estudos para me tornar Desenvolvedora Front-end.
 
-Após uma trajetória sólida na área administrativa — onde desenvolvi fortes habilidades de organização, foco e resolução de problemas —, decidi direcionar minha carreira para o desenvolvimento de software, unindo essa bagagem à paixão por criar soluções digitais e transformar ideias em interfaces úteis e amigáveis para as pessoas.
+Após uma trajetória na área administrativa, desenvolvi habilidades como organização, foco e resolução de problemas, que hoje aplico no desenvolvimento de software. Tenho paixão por criar interfaces funcionais e transformar ideias em soluções digitais úteis e intuitivas.
 
-* 🎯 **Objetivo Atual:** Construir projetos sólidos em Front-end e me preparar para o concurso do Banco do Brasil (Agente de Tecnologia).
-* 🌱 **Aprendendo constantemente:** JavaScript, React, HTML5, CSS3 e boas práticas de desenvolvimento web.
-* ⚡ **Curiosidade:** Fora das telas, adoro passar tempo com minha família (meu marido e meu filho), além de me dedicar a hobbies criativos como crochê e panificação. Transformar ideias e ingredientes do zero está no meu DNA!
+* 🎯 **Objetivo atual: Construir projetos sólidos em Front-end e me preparar para oportunidades na área de tecnologia.
+* 🌱 **Aprendendo constantemente: HTML5, CSS3, JavaScript, React e boas práticas de desenvolvimento web.
+* ⚡ **Curiosidade: Fora das telas, adoro passar tempo com minha família (meu marido e meu filho), além de hobbies criativos como crochê e panificação.
 
 ---
 
