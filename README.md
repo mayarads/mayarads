@@ -1,13 +1,13 @@
 # Olá, eu sou a Mayara! 👋
 
 ## 🚀 Sobre Mim
-Sou estudante de Análise e Desenvolvimento de Sistemas na GRAN Faculdade e estou focando meus estudos para me tornar Desenvolvedora Front-end.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na GRAN Faculdade e estou focando meus estudos para me tornar **Desenvolvedora Front-end**.
 
 Após uma trajetória na área administrativa, desenvolvi habilidades como organização, foco e resolução de problemas, que hoje aplico no desenvolvimento de software. Tenho paixão por criar interfaces funcionais e transformar ideias em soluções digitais úteis e intuitivas.
 
-* 🎯 **Objetivo atual: Construir projetos sólidos em Front-end e me preparar para oportunidades na área de tecnologia.
-* 🌱 **Aprendendo constantemente: HTML5, CSS3, JavaScript, React e boas práticas de desenvolvimento web.
-* ⚡ **Curiosidade: Fora das telas, adoro passar tempo com minha família (meu marido e meu filho), além de hobbies criativos como crochê e panificação.
+* 🎯 **Objetivo atual:** Construir projetos sólidos em Front-end e me preparar para oportunidades na área de tecnologia.
+* 🌱 **Aprendendo constantemente:** HTML5, CSS3, JavaScript, React e boas práticas de desenvolvimento web.
+* ⚡ **Curiosidade:** Fora das telas, adoro passar tempo com minha família (meu marido e meu filho), além de hobbies criativos como crochê e panificação.
 
 ---
 
@@ -27,7 +27,6 @@ Após uma trajetória na área administrativa, desenvolvi habilidades como organ
 ---
 
 ## 📂 Projetos em Destaque
-*Aqui você pode listar os seus melhores projetos conforme for construindo durante a faculdade e estudos autônomos:*
 
 1. **[NexStream](https://github.com/mayarads/nexstream.git)**
    * *Descrição:* NexStream é uma plataforma de streaming responsiva desenvolvida para oferecer uma experiência fluida e multiplataforma, com foco em performance, acessibilidade e SEO, alcançando 100% de pontuação nas auditorias do Lighthouse.
@@ -48,8 +47,9 @@ Após uma trajetória na área administrativa, desenvolvi habilidades como organ
 
 ---
 
-## 🤝 Obrigada por entrar no meu portfolio, vamos nos conectar no Linkedin?
-Seja para trocar conhecimentos sobre desenvolvimento, estudos ou oportunidades, fique à vontade para me dar um oi!
+## 🤝 Obrigada por visitar meu portfólio! 
+Vamos nos conectar no LinkedIn?
+Fique à vontade para me chamar para trocar ideias sobre desenvolvimento, estudos ou oportunidades na área de tecnologia.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfernnandes/)
 [![E-mail](https://img.shields.io/badge/mailto-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayaramartins.ads@hotmail.com)
