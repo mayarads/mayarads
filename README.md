@@ -1,4 +1,19 @@
-# Olá, eu sou a Mayara! 👋
+<!-- BANNER TOPO PREMIUM (ROXO #332350 COM NOME EM AMARELO) -->
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Mayara%20Martins&fontColor=eab308&fontAlign=50&fontAlignY=40&fontSize=56&animation=twinkling&color=332350"
+    alt="Banner Mayara Martins"
+  />
+</p>
+
+<!-- FRASE ANIMADA PERSONALIZADA PARA FRONT-END -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&duration=2600&pause=800&color=eab308&center=true&vCenter=true&width=900&lines=Especializando+em+React+%26+JavaScript;Desenvolvendo+interfaces+modernas+e+responsivas.;Foco+em+aprendizado+cont%C3%ADnuo+e+evolu%C3%A7%C3%A3o+t%C3%A9cnica."
+    alt="Texto animado Mayara"
+  />
+</p>
+
 
 ## 🚀 Sobre Mim
 Sou estudante de **Análise e Desenvolvimento de Sistemas** na GRAN Faculdade e estou focando meus estudos para me tornar **Desenvolvedora Front-end**.
@@ -14,15 +29,10 @@ Após uma trajetória na área administrativa, desenvolvi habilidades como organ
 ## 🛠️ Habilidades Técnicas
 
 ### 🖥️ Front-end
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+[![Minhas Habilidades Front-end](https://skillicons.dev/icons?i=html,css,js,react)](https://skillicons.dev)
 
 ### 🔧 Ferramentas e Organização
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+[![Minhas Ferramentas](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ---
 
@@ -47,10 +57,17 @@ Após uma trajetória na área administrativa, desenvolvi habilidades como organ
 
 ---
 
-## 🤝 Obrigada por visitar meu portfólio! 
-Vamos nos conectar no LinkedIn?
-Fique à vontade para me chamar para trocar ideias sobre desenvolvimento, estudos ou oportunidades na área de tecnologia.
+---
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfernnandes/)
-[![E-mail](https://img.shields.io/badge/mailto-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayaramartins.ads@hotmail.com)
+## 🤝 Obrigada por visitar meu portfólio!
 
+Vamos nos conectar no LinkedIn? Fique à vontade para me chamar para trocar ideias sobre desenvolvimento, estudos ou oportunidades na área de tecnologia.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mfernnandes/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mayaramartins.ads@hotmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
+  </a>
+</p>
