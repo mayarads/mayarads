@@ -1,7 +1,7 @@
 <!-- BANNER TOPO PREMIUM (ROXO #332350 COM NOME EM AMARELO) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Mayara%20Martins&fontColor=eab308&fontAlign=50&fontAlignY=40&fontSize=56&animation=twinkling&color=332350"
+    src="https://capsule-render.vercel.app/api?type=waving&height=300&color=332350&text=Mayara%20Fernandes&fontColor=eab308&textBg=false"
     alt="Banner Mayara Martins"
   />
 </p>
