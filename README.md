@@ -50,12 +50,13 @@ Após uma trajetória na área administrativa, desenvolvi habilidades como organ
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mayarads&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de Mayara" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayarads&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas por Mayara" />
+<p align="center">
+  <!-- Card de Streak customizado com as cores do banner -->
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mayarads&theme=dracula" alt="Status de Contribuições" />
+  
+  <!-- Card de Linguagens (Summary Cards) customizado com as cores do banner -->
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mayarads&theme=dracula" alt="Linguagens mais usadas" />
 </p>
-
----
 
 ---
 
